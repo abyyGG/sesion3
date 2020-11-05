@@ -1,6 +1,5 @@
 .container-header{
     width: 100%;
-<<<<<<< HEAD
     height: 100px;
     background-color: red;
 }
@@ -16,8 +15,4 @@
     width: 30%;
     height: 100px;
     background-color: turquoise;
-=======
-    height: 400px;
-    background-color: blue;
->>>>>>> c37f3fe5f54dd77cd8c6f1179e96edfb47b0c81e
 }
